@@ -1,0 +1,22 @@
+{
+  "name": "Nome:",
+  "candidateCode": "Código do Candidato:",
+  "finalScore": "Nota Final:",
+  "generated": "Relatório gerado em:",
+  "email": "E-mail:",
+  "reference": "Referência:",
+  "activity": "Atividade:",
+  "jobOfferProcedureType": "Tipo de Procedimento de Oferta de Emprego:",
+  "reportDate": "Data do Relatório:",
+  "selectionMethod": "Método de Seleção:",
+  "score": "Pontuação",
+  "notes": "Notas",
+  "title": "Título",
+  "reportTitle": "Relatório de Desempenho",
+  "testDate": "Data do teste",
+  "numberOfItems": "Número de itens",
+  "items": "Items",
+  "description": "Descrição:",
+  "performanceReportFor": "Relatório de desempenho de: {StudentName}",
+  "introduction": "Este relatório é providenciado como um reporte para auto-avaliação relativo à prova \"{ExamName}\". Esta prova é compreendida por {TotalItems} itens de avaliação em {TotalCategories} Categorias, subdivididas em {TotalTopics} tópicos. Os itens de avaliação podem estar categorizados em mais do que um ponto numa determinada subscala. Este reporte detalha o seu desempenho em comparação com os restantes participantes."
+}

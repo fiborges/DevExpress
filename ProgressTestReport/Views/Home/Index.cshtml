@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm border-0" style="background-color: #F0F0F0;">
+                <div class="card-body text-center">
+                    <h1 class="display-4" style="color: #A7C7E7;">Welcome</h1>
+                    <p class="lead" style="color: #6C757D;">
+                        Generate your customized progress test report with just one click.
+                    </p>
+                    <p style="color: #6C757D;">
+                 
+                    </p>
+                    <button class="btn btn-lg mt-4" style="background-color: #C7E7C7; color: #333;" onclick="generatePDF()">Generate PDF Report</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script type="text/javascript">
+        function generatePDF() {
+            window.location.href = '@Url.Action("GenerateReport", "Report")';
+        }
+    </script>
+}

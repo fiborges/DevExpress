@@ -1,0 +1,9 @@
+C:\Users\joaoa\OneDrive\Ambiente de Trabalho\Relatório de presenças\obj\Debug\net8.0\Relatório de presenças.csproj.AssemblyReference.cache
+C:\Users\joaoa\OneDrive\Ambiente de Trabalho\Relatório de presenças\obj\Debug\net8.0\Relatório de presenças.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoa\OneDrive\Ambiente de Trabalho\Relatório de presenças\obj\Debug\net8.0\Relatório de presenças.AssemblyInfoInputs.cache
+C:\Users\joaoa\OneDrive\Ambiente de Trabalho\Relatório de presenças\obj\Debug\net8.0\Relatório de presenças.AssemblyInfo.cs
+C:\Users\joaoa\OneDrive\Ambiente de Trabalho\Relatório de presenças\obj\Debug\net8.0\Relatório de presenças.csproj.CoreCompileInputs.cache
+C:\Users\joaoa\OneDrive\Ambiente de Trabalho\Relatório de presenças\obj\Debug\net8.0\Relatório de presenças.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joaoa\OneDrive\Ambiente de Trabalho\Relatório de presenças\obj\Debug\net8.0\Relatório de presenças.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaoa\OneDrive\Ambiente de Trabalho\Relatório de presenças\obj\Debug\net8.0\Relatório de presenças.RazorAssemblyInfo.cache
+C:\Users\joaoa\OneDrive\Ambiente de Trabalho\Relatório de presenças\obj\Debug\net8.0\Relatório de presenças.RazorAssemblyInfo.cs

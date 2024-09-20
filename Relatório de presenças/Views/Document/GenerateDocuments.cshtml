@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Generate Documents";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Generate Documents</h2>
+
+<p>@ViewBag.Message</p>
+
+<form action="/Document/GenerateDocuments" method="post">
+    <button type="submit">Generate Documents</button>
+</form>

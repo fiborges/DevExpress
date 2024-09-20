@@ -1,0 +1,24 @@
+{
+  "name": "Name:",
+  "candidateCode": "Candidate Code:",
+  "finalScore": "Final Score:",
+  "generated": "Report generated on:",
+  "email": "Email:",
+  "reference": "Reference:",
+  "activity": "Activity:",
+  "jobOfferProcedureType": "Job Offer Procedure Type:",
+  "reportDate": "Report Date:",
+  "selectionMethod": "Selection Method:",
+  "score": "Score",
+  "notes": "Notes",
+  "title": "Title",
+  "reportTitle": "Performance Report",
+  "testDate": "Test Date",
+  "numberOfItems": "Number of Items",
+  "items": "Items",
+  "description": "Description:",
+  "performanceReportFor": "Performance report for: {StudentName}",
+  "introduction": "This report is provided as a self-assessment report for the \"{ExamName}\" exam. This exam comprises {TotalItems} evaluation items in {TotalCategories} Categories, subdivided into {TotalTopics} topics. Evaluation items may be categorized in more than one point on a given subscale. This report details your performance compared to other participants."
+
+
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Nome:",
+  "candidateCode": "Código do Candidato:",
+  "finalScore": "Nota Final:",
+  "generated": "Relatório gerado em:",
+  "email": "E-mail:",
+  "reference": "Referência:",
+  "activity": "Atividade:",
+  "jobOfferProcedureType": "Tipo de Procedimento de Oferta de Emprego:",
+  "reportDate": "Data do Relatório:",
+  "selectionMethod": "Método de Seleção:",
+  "score": "Pontuação",
+  "notes": "Notas",
+  "title": "Título",
+  "description": "Descrição:"
+}
